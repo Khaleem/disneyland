@@ -1,6 +1,7 @@
 public class Person{
   
   Private Address address;  
-  int Age age
+  int Age age;
+  double salary;
   
 }
